@@ -1,0 +1,21 @@
+.a{
+	font-family: Times New Roman, Times, serif;
+	font-weight: lighter;
+}
+.b{
+	font-size: 40px;
+	font-weight: 700;
+}
+.breakfast{
+	border-style: solid;
+	border-radius: 10px;
+	border-left: 150px;
+	border: 20px blueviolet;
+	background-color: black;
+	list-style: square inside url(list-image);
+	color: white;
+	font-size: 30px;
+	margin: 20px;
+	padding: 60px;
+
+}
